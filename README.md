@@ -11,6 +11,8 @@
 ## 👨‍💻 Authors
 > - **[Mark Olofernes](https://github.com/markolofernes)**
 > - **[Jomar Clado](https://github.com/jomar567)**
+> - **[Justin Masiga](https://github.com/tsujintsujin)**
+> - **[Jomar Neri](https://github.com/codeace110)**
 
 ---
 
